@@ -1,0 +1,11 @@
+#first input the data
+#cheak the dimension of data
+
+
+```
+library(ISLR2)
+dim(Smarket) 
+summary(Smarket)
+```
+
+#logistic regression
